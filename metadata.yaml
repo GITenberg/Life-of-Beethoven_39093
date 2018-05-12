@@ -1,0 +1,42 @@
+_repo: Life-of-Beethoven_39093
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39093-h/images/cover_lg.jpg
+creator:
+  author:
+    agent_name: Schindler, Anton
+    alias: Schindler, Anton Felix
+    birthdate: 1795
+    deathdate: 1864
+    gutenberg_agent_id: '39839'
+    url: http://www.gutenberg.org/2009/agents/39839
+    wikipedia: http://en.wikipedia.org/wiki/Anton_Schindler
+  editor:
+    agent_name: Moscheles, Ignaz
+    aliases:
+    - Moschelles, I. (Ignaz)
+    - Moscheles, Isaak-Ignaz
+    - Moscheles, I. (Ignaz)
+    - Moscheles, Ignace
+    birthdate: 1794
+    deathdate: 1870
+    gutenberg_agent_id: '39840'
+    url: http://www.gutenberg.org/2009/agents/39840
+description: ''
+gutenberg_issued: '2012-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39093'
+  lccn: 06004819
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ML'
+- !lcsh 'Beethoven, Ludwig van, 1770-1827'
+- !lcsh 'Composers -- Germany -- Biography'
+title: "Life of Beethoven\r\nIncluding his correspondence with his friends, numerous\
+  \ characteristic traits, and remarks on his musical works"
+url: http://www.gutenberg.org/ebooks/39093
